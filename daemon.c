@@ -8,7 +8,7 @@
 #include<sys/stat.h>
 #include<time.h>
 
-#define FILE_PATH "/home/azymondias/timelog.txt"
+#define FILE_PATH "/home/user/timelog.txt"
 
 void main()
 {

@@ -1,2 +1,2 @@
-/home/azymondias/git/daemon/testd
-/home/azymondias/git/daemon/auxd
+/home/user/git/daemon/testd
+/home/user/git/daemon/auxd

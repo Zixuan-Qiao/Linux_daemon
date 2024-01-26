@@ -1,7 +1,7 @@
 # Linux Daemon Process
 Two Linux daemons are designed and implemented in this project. 
 
-## Process of Creating Daemon Process
+## Creating Daemon Process
 1. create child process with fork(), terminate parent process with exit(); 
 2. make the child process a session leader with setsid(); 
 3. change the working directory to / with chdir(); 

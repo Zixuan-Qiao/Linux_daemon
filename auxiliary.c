@@ -7,7 +7,7 @@
 #include<sys/param.h>
 #include<sys/stat.h>
 
-#define FILE_PATH "/home/user/timelop.txt"
+#define FILE_PATH "/home/user/timelog.txt"
 #define EXEC_PATH "/home/user/git/daemon/testd"
 
 int getFileSize() // obtain file size to determine if daemon is running
